@@ -1,0 +1,1 @@
+/home/mohannadk28/.pixelfiles/pixelfiles-apps/.doom.d
