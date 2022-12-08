@@ -9,3 +9,5 @@ rm -rf "$HOME"/.config/aseprite
 ln -s "$PFAPPSDIR"/.doom.d "$HOME"/.doom.d
 ln -s "$PFAPPSDIR"/gimp "$HOME"/.config/gimp
 ln -s "$PFAPPSDIR"/aseprite "$HOME"/.config/aseprite
+
+cat "$PFAPPSDIR"/asepriteconfig >> "$HOME"/.config/aseprite/aseprite.ini
