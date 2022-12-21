@@ -8,6 +8,8 @@ the applications division of [my dotfiles](https://github.com/mohannadk28/pixelf
 1. DOOM Emacs
 2. Aseprite
 3. Gimp
+4. Qutebrowser
+5. Zathura PDF
 
 ---
 
@@ -31,5 +33,7 @@ sh setup-apps
 
 ---
 ## Credit:
-1. [Nord Theme For Aseprite](https://github.com/marsn3/aseprite-nord) by [marsn3](https://github.com/marsn3/) on [Github](https://github.com)
-2. [DOOM Emacs](https://github.com/doomemacs/doomemacs) by [hlissner](https://github.com/hlissner) on [Github](https://github.com)
+1. [Nord Theme For Zathura](https://github.com/gdnand/zathura-nord) by [gdnand](https://github.com/gdnand/) on [Github](https://github.com/)
+1. [Nord Theme For Aseprite](https://github.com/marsn3/aseprite-nord) by [marsn3](https://github.com/marsn3/) on [Github](https://github.com/)
+2. [Nord Theme For Qutebrowser](https://github.com/Linuus/nord-qutebrowser) by [Linuus](https://github.com/Linuus/) on [Github](https://github.com/) 
+4. [DOOM Emacs](https://github.com/doomemacs/doomemacs) by [hlissner](https://github.com/hlissner) on [Github](https://github.com/)
