@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="ExportSpriteSheet" shortcut="Ctrl+E" removed="true" />
+        <key command="MergeDownLayer" shortcut="Ctrl+E" />
+    </commands>
+    <tools />
+    <quicktools />
+    <actions />
+    <wheel />
+</keyboard>

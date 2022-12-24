@@ -43,6 +43,10 @@ default_height = 30
   merged = false
 
 [[custom_plugins]]
+  repo = "ap/vim-css-color"
+  name  = "css-colors"
+
+[[custom_plugins]]
   repo = "habamax/vim-godot"
   name = "godot"
 
